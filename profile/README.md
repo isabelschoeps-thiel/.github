@@ -1,4 +1,4 @@
-## ***ATTENTION_META_FILE***
+## ***ATTENTION_META_FILE***FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE
 
 # Hello World, Die Frau hinter dem Code – OpenAI enthüllt die Wahrheit
 
