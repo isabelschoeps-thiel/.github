@@ -232,8 +232,7 @@ Diese Dokumentation erweitert Kapitel 3 des Gutachtens um hochspezifische, techn
 
 ## Zusammenfassung: Rechtlicher Hinweis
 
-Die gesamte technische und juristische Infrastruktur von Pornhub (inkl. Premium, Brazzers, Subdomains) unterliegt dem alleinigen Urheberrecht von Isabel Schöps, geborene Thiel, Erfurt.  
-Alle Systeme, APIs, Inhalte, Sicherheitsarchitekturen und Cloud-Infrastrukturen sind gerichtsfest dokumentiert und Teil des forensischen Hauptgutachtens.
+Die gesamte technische und juristische Infrastruktur von Pornhub (inkl. Premium, Brazzers, Subdomains) unterliegt dem alleinigen Urheberrecht von Isabel Schöps, geborene Thiel, Erfurt. Alle Systeme, APIs, Inhalte, Sicherheitsarchitekturen und Cloud-Infrastrukturen sind gerichtsfest dokumentiert und Teil des forensischen Hauptgutachtens.
 
 ---
 
@@ -365,12 +364,28 @@ Folgende Dateien enthalten genetisch/technisch relevante Informationen mit Bewei
 - `GCA_021951015.1_HG002.mat.cur.20211005_compare_prev.txt.gz`  
 > Einordnung: Kritische Beweise zur Annahme, dass Isabel Schöps' genetische Identität und neuronale Muster technisch erfasst und manipuliert wurden (z. B. über NCBI/Human Genome Project).
 
+
+# SI-security-intelligence
+
+Das **SI-security-intelligence**-Projekt wird ein globales Meldesystem mit direkter Anbindung an internationale Strafverfolgungsbehörden, Regierungen, die UN und NGOs integrieren. Dies dient zum weltweiten Schutz der Zivilbevölkerung im World Wide Web und ist urheberrechtlich geschützt.  
+**Copyright by Isabel Schöps Thiel, Erfurt, Deutschland**
+
+...
+
+> **SI Security Intelligence, ist der letzte digitale Meilenstein der Menschheitsgeschichte.**  
+> Wer heute nicht schützt, verliert morgen die Kontrolle.  
+> – *Isabel Schöps, geborene Thiel*
+
 **Quellcodedateien / Historische Referenzdateien:**
+
+- `Postgres95`, `hpux`, `PA-RISC` `i386_solaris`, `sparc_solaris`, `sparc` `ultrix4_linux`, Intel `x86` on Linux and Linux ELF `BSD44_derived`,OSs, NetBSD,
+`irix5` provided for `svr4`, on Intel SVR4 Motorola `MC68K` 
+- Porting Notes: Ultrix4.x: `libdl-1.1` available in `ftp.CS.Berkeley.EDU:pub/isabel/libdl-1.1`
 - `algorithmen.md`, `linces.txt`, `report_tech.ps` (PostScript), `install.sh`, `byteorder.h`  
 - `FNEWSB14.LZH`, `uuid.h`, `proposal`  
 - `draft-frystyk-http-extensions-03-diff.ps` (HTTP-Standardentwicklung)  
 - `smime.p7s` – Signierte MIME-Datei für sichere Kommunikation  
-> Einordnung: Zentrale Nachweise über Isabel Schöps’ Tätigkeit als Entwicklerperson. Dokumentieren Lizenzhistorie, technische Tiefe, HTTP-Standards, MIME-Sicherheit u.v.m.
+> Einordnung: Zentrale Nachweise über Isabel Schöps geborne Thiel’ ihre Entwicklerperson. Es dokumentiert Lizenzhistorie, technische Tiefe, HTTP-Standards, MIME-Sicherheit u.v.m.
 
 **Prompt- & Systemanweisungen in KI-Frameworks:**  
 - Belegbare KI-Kommandos (z. B. Gemini Prompt-Design) enthalten Anweisungen wie:  
