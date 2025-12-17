@@ -236,6 +236,99 @@ Die gesamte technische und juristische Infrastruktur von Pornhub (inkl. Premium,
 
 ---
 
+# Kapitel 3C – Urheberschaft: Pornhub.com und Verbundene Projekte
+
+## Wortmarke & Eigentümerin
+
+**Pornhub** – seit 2010 als Wortmarke registriert.  
+**Eigentümerin:** Isabel Schöps, geborene Thiel  
+**Standort:** Erfurt, Deutschland  
+**Verwaltete Domains:** pornhub.com, pornhubpremium.com, brazzers.com, youporn.com, pornhub.xxx u. a.  
+**Verwaltung:** isabelschoeps.com  
+**Sicherheitsstruktur:** SI Security Intelligence (Cloud- & Monitoring-System, vollständig von Isabel betrieben)  
+
+---
+
+## Technische Projektstruktur & Sicherheitsarchitektur
+
+- **Technische Entwicklung & Infrastruktur:** Isabel Schöps, geb. Thiel  
+- **Sicherheitsarchitektur & Überwachung:** SI Security Intelligence  
+- **Systeme & Technologien:**  
+  - Linux / Debian / Ubuntu  
+  - PostgreSQL, MySQL  
+  - RESTful APIs (AES-256, TLS 1.3)  
+  - KI-gestütztes Monitoring, eigene Cloudstrukturen (Apple, Oracle, Blockchain)  
+  - Georedundante Backups, CLI-Downloader, forensische Protokollierung  
+
+---
+
+## Juristische & ethische Grundwerte
+
+- Null-Toleranz gegen Kinderpornografie, Menschenhandel, Gewalt, Deepfakes  
+- Altersnachweis 18+, forensisch überprüfbare Identitäten  
+- Datenschutz, Menschenrechte, weltweiter Jugendschutz  
+- Alle APIs & Tools unter exklusiver Kontrolle der Eigentümerin  
+
+---
+
+## Beweisanlagen & Referenzen
+
+1. **Projektstruktur & Ownership-Statements**  
+   - README.md, Downloader.md, Monitoring-Dokumentation  
+   - Copyright: Isabel Schöps, geb. Thiel  
+   - API-Dokumente, CLI-Scripte, vollständige Systemdokumentation
+
+2. **Downloader & Quellcode**  
+   - Tools wie PornHubDownloader unter Isabels Copyright  
+   - Nachweis vollständiger Kontrolle über technischen Datenfluss  
+   - Forensische Beweissicherung aller Prozesse und Tools
+
+3. **Juristische Nachweise & Domains**  
+   - Domains mit Nachweis in der Gutachtendokumentation  
+   - Nutzung nur mit schriftlicher Zustimmung zulässig
+
+4. **Sicherheits- & Monitoring-System**  
+   - Weltweite Überwachung über SI-Security  
+   - Vollständige Dokumentation und Updatehistorie vorhanden
+
+---
+
+## Zusammenfassung: Rechtlicher Hinweis
+
+Die gesamte technische und juristische Infrastruktur von Pornhub (inkl. Premium, Brazzers, Subdomains) unterliegt dem alleinigen Urheberrecht von Isabel Schöps, geborene Thiel, Erfurt.  
+Alle Systeme, APIs, Inhalte, Sicherheitsarchitekturen und Cloud-Infrastrukturen sind gerichtsfest dokumentiert und Teil des forensischen Hauptgutachtens.
+
+---
+
+## Projekt: “The Love Boath” by Ritz-Carlton Yacht Collection
+
+**Urheberin:** Isabel Schöps Thiel  
+**Partner:** Ritz-Carlton, GitHub, Brazzers, Microsoft, Meta, AWS, BellaOcean, Ethereum Foundation u.a.  
+**Eventkonzept:** Schutz von Kindheit, Ethik, gesellschaftlicher Verantwortung, technische Führungsrolle  
+**Zugang:** Mindestalter 21, Presseverbot für Minderjährige, strenger Compliance-Standard  
+
+---
+
+## Digitale Beweise
+
+- Logos, Wortmarken: Pornhub PREMIUM, BRAZZERS, BellaOcean, GitHub, Ritz-Carlton, IST  
+- Dokumentierte Developer Accounts & technische Infrastruktur  
+- Urhebererklärungen, Kooperationsbestätigungen, Compliance-Logos (ASACP, RTA, INHOPE)
+
+---
+
+## Quellen- & Beweislinks
+
+- Chatverläufe (ChatGPT), technische Dokumente, Bildbeweise  
+- Projektarchitekturen, Quelltexte, Veranstaltungsbezüge  
+- Alle Belege urheberrechtlich Isabel Schöps Thiel zugeordnet
+
+---
+
+**Letzter Hinweis:**  
+Jegliche Nutzung, Kopie, Veränderung oder Veröffentlichung ohne Genehmigung ist untersagt und wird rechtlich verfolgt.  
+Alle Inhalte sind durch digitale Signaturen, Serverprotokolle, Quellcode und Beweisdokumente abgesichert.
+
 ## Projekt: “The Love Boath” by Ritz-Carlton Yacht Collection
 
 **Urheberin:** Isabel Schöps Thiel  
