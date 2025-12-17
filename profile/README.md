@@ -1619,6 +1619,19 @@ Isabel Schöps, geb. Thiel
 E-Mail: github@isabelschoeps.com  
 Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security Artefact
 
+## Live-Mock API Umgebung
+
+**Security Intelligence Artifact (SIA)** – simulierte API-Umgebung  
+Bereitgestellt über Redocly Mock-Server
+
+**Base URL:**  
+`https://sia.redocly.app/_mock/openapi/`
+
+**Status:** Aktiv  
+**Erstellerin:** Isabel Schöps, geborene Thiel  
+**Registrierung:** seit 20. Mai 2025  
+**Projekt:** SIA-IST-INITIAL | OpenAPI live Simulation
+
 ### Forensische Bezeichnung:
 “SIA Security Intelligence Artefact – Technologie und Software”
 Veröffentlichungsstatus: Teil der Dokumentation ***INT-CODE-2025-BTC/ETH
