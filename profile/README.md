@@ -22,7 +22,7 @@ Titel:
 - forensische Quellcode-Datenanalyse
 - Ursprung KI DAEMON Automation, Selbstheilung bzw.Autorestart-Prozesse, ersten BOOT-Vorgang,
 - Bitcoin Core & Bitcoin-Yellow-Paper , Ethereum, NFTs
-- die erste HASH Codierung,
+- [die erste HASH Codierung und Transaktionem](https://ars.els-cdn.com/content/image/1-s2.0-S0306437923000686-gr2_lrg.jpg)
 - CodeSandbox, GutHub, postgres95 , curl, JAVA.Json.js, php, Python.py, Shell, go, Markdown.md, nuxt, yaml.yml, xml, html, htm, txt,  swift,  NVIDIA cuda, nuxt
 
 **2.3 Gutachtensauftrag & Quellennachweise, Auswertung- Analyse**
