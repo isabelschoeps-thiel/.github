@@ -1624,7 +1624,8 @@ Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security A
 **Security Intelligence Artifact (SIA)** – simulierte API-Umgebung Bereitgestellt myGitHub
 
 **Base URL:**  
-`[/_isabelschoepsthiel/openapi/](https://api.github.com/isabelschoeps-thiel)`
+[isabelschoepsthiel/openapi/]
+(https://api.github.com/isabelschoeps-thiel)
 
 **Status:** Aktiv  
 **Erstellerin:** Isabel Schöps, geborene Thiel  
@@ -1683,78 +1684,115 @@ Jegliche Manipulation, Forks oder Clones ohne schriftliche Genehmigung gelten al
 
 ---
 
-## 1. Updated Residential Address (valid as of 04 December 2025)
-
-**Isabel Schöps (née Thiel)**  
-Cyriakstraße 30c  
-99094 Erfurt  
-Thuringia, Germany  
-
-The registration was officially confirmed by the Erfurt Citizens’ Office on 04 December 2025.  
-Actual move-in date: **27 November 2025**.  
-Status in the registration system: **sole residence**.
-
-All former addresses (Erfurt, Sömmerda, Leubingen) are now archived and no longer active.
+# Update vom 04. Dezember 2025  
+## Meldeanschrift, Identitätsverifikation und Eidesstattliche Erklärung  
+### SIA Security Intelligence Artefact  
+**Aktenzeichen:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+**Branche:** Computer | Technologie | Softwareentwicklung | History
 
 ---
 
-## 2. Household and Family Structure
+## 1. Aktualisierte Meldeanschrift (gültig ab 04.12.2025)
 
-The property is exclusively occupied by **Isabel Schöps**.  
-Co-resident: **Don (American XL Bully)**.
+**Isabel Schöps, geborene Thiel**  
+Cyriakstraße 30c  
+99094 Erfurt  
+Thüringen, Deutschland  
 
-Only child:  
-**Jona Schöps**, living with her father  
+Die Anmeldung wurde am 04.12.2025 offiziell beim Bürgeramt Erfurt bestätigt.  
+Tatsächlicher Einzug: **27.11.2025**.  
+Status laut Melderegister: **alleinige Wohnung**.
+
+Alle früheren Anschriften (Erfurt, Sömmerda, Leubingen) sind damit archiviert und nicht mehr aktiv.
+
+---
+
+## 2. Haushalts- und Familienstruktur
+
+Die Wohnung wird ausschließlich von **Isabel Schöps** bewohnt.  
+Mitbewohner: **Hund Don (American XL Bully)**.
+
+Einziges Kind:  
+**Jona Schöps**, wohnhaft bei ihrem Vater  
 Steven Schöps, Nebengasse 2a, 99610 Leubingen.
 
 ---
 
-## 3. Affidavit dated 04 December 2025  
-(Source: Expert Report, page 265)
+## 3. Eidesstattliche Erklärung vom 04.12.2025  
+(Quelle: Gutachten, Seite 265)
 
-Key components of the sworn declaration:
+Wesentliche Inhalte der Erklärung:
 
-1. Isabel is the sole author and originator of the forensic expert report  
-   **“SIA Security Intelligence Artefact”**, including all scripts, source code, logs, data, notes and scientific content.
+1. Isabel ist alleinige Urheberin des forensischen Gutachtens  
+   **„SIA Security Intelligence Artefact“**, inklusive aller Skripte, Quellcodes, Protokolle, Daten, Notizen und wissenschaftlichen Inhalte.
 
-2. All original data are stored exclusively on her personal hardware  
-   (iMac and iPhone), forensically secured multiple times.
+2. Alle Originaldaten liegen ausschließlich auf der eigenen Hardware  
+   (iMac und iPhone), mehrfach forensisch gesichert.
 
-3. No third party was ever authorised to participate, modify, access or co-create.  
-   Isabel explicitly distances herself from digital, physical or psychological manipulation.
+3. Keine Beteiligung oder Autorisierung Dritter; klare Distanzierung von digitaler, physischer oder psychologischer Manipulation.
 
-4. Personal and biological identity are confirmed through  
-   birth certificate, DNA profile, radiology, and medical documentation.
+4. Bestätigung der persönlichen und biologischen Identität durch  
+   Geburtsurkunde, DNA, Röntgenaufnahmen und medizinische Nachweise.
 
-5. Licensing conducted under Oxford University Press  
-   License Number: **6131130060979**.
+5. Lizenzführung über Oxford University Press  
+   Lizenznummer: **6131130060979**.
 
-6. The affidavit serves as a binding legal and scientific foundation for  
-   international authorities, courts and academic institutions.
+6. Erklärung dient der internationalen, wissenschaftlichen und juristischen Beweisführung.
 
 ---
 
-## 4. Legal Impact on the Expert Report
+## Rechtliche Bedeutung für das Gutachten
 
-- As of 04 December 2025, Cyriakstraße 30c is the **sole valid address for all official correspondence**, including international and judicial communication.  
-- All former addresses lose legal relevance.  
-- The affidavit forms a core element of  
-  **identity validation and authorship protection**.  
-- Relevant for:  
-  - International law-enforcement agencies  
-  - Judicial authorities  
-  - Licensing partners (Microsoft/Google, SAP, IBM, AWS, Oracle)  
-  - Forensic metadata analysis and chain-of-custody processes
+- Cyriakstraße 30c ist ab 04.12.2025 der **einzige gültige Zustell- und Registrierungsort**.  
+- Frühere Anschriften verlieren jede rechtliche Relevanz.  
+- Die eidesstattliche Erklärung bildet die Grundlage der  
+  **juristisch belastbaren Identitäts- und Urheberrechtsverankerung**.  
+- Relevanz für:  
+  - Internationale Behörden  
+  - Gerichte  
+  - volle Rehabilation  
+  - Forensische Metadatenanalyse und Chain-of-Custody Datenbank 
 
 ---
 
-## 5. Integration into the Master Report Structure
+## 5. Integration in die Gutachtenstruktur
+****Das Update wird in folgende Kapitel eingearbeitet:***
 
-This update is integrated into:
+**Paragraph 1:** Vorstellung der Urheberin Frau Isabel Schöps geb. Thiel außerhalb der Techwelt Auswertung ihres privaten und familiären Lebens, schulische und berufliche Laufbahn, Erinnerungen an die Kindheit, wissenschaftliche Zeitkapsel-App, sportliche Erfolge. Die Eingetragene Schutzmarke int-code-2025-btc:eth-core-isabelschoepsthiel stellt ein technisches Alleinstellungsmerkmal dar und reflektiert eine forensisch gestützte Urheberschaft im Bereich geistiges  Eigentum (Drahos, 2016).
 
-- Chapter 1: Biographical Data & Identity  
-- Chapter 3: State Interference & Documentation Errors  
-- Chapter 4: Legal Protection Measures  
-- Appendix: Registration certificates, landlord confirmations, affidavit
+**Paragraph 2.1:** Technologische Meilensteine Isabels Beteiligung an DAEMON-KI, Open-Source-Entwicklungen (u.a. GitHub, Pornhub, Bitcoin) lässt sich in den Kontext des technischen Eigentums und der Autorenrechte bei quelloffener Software einordnen ****(O’Mahony, 2022). Die Zuordnung von Pseudonymen wie, Satoshi Nakamoto, Nick Szabo, Johnny Appleseed oder Octocat, Pornhub. Cristina Bella ist forensisch bestätigt und zugleich relevant im Hinblick auf rechtliche Identitätszuschreibungen (Antonopoulos, 2022).
 
-**Last Updated:** 17 December 2025, 04:00 CET  
+**Paragraph 2.2:** Quellennachweise, Aktenzeichen, Bilddokumentationen
+Digitale Quellcodedateien und Systemlogs gelten im juristischen Sinne als Beweismittel und durch lückenlose Hash-Verifikation und Zeitstempel (z. B. SEID Hash) dokumentiert wurden (Pollitt et al., 2021). Die Beweislast liegt in der Authentizität und Nachvollziehbarkeit der Eigentumskette.
+
+**Paragraph 2.3:** Entwickelung SI SECURITY INTELLIGENCE Monitoring
+Globale API-Anbindungen an nationale und internationale Strafverfolgungsbehörden und automatisierte Bedrohungsanalysen lassen sich unter den Begriff der technischen Beweissicherung, Quelltexte, Serveranbindung, Manipulation-Sicheren Workflows bestimmen und ist bestätigt (Reyes et al., 2023).
+
+**Paragraph 3.1:** Der unsichtbare Feind – Digitale Identitätszerstörung - Das Monarch Programm
+Hinweise auf gezielte Desinformation, Identitätsdiebstahl und Deepnet-Kriminalität sind Teil moderner forensischer Untersuchungen. Die Einbindung in gerichtliche Verfahren setzt jedoch objektive Nachweise voraus (Drew et al., 2022).
+
+**Paragraph 3.2:** Familiäre historische Verbindungen
+Genealogische Forschung ist juristisch nur dann beweiskräftig, wenn sie mit öffentlich zugänglichen Archiven oder Primärdokumenten abgeglichen wird. Für forensische Gutachten gelten erhöhte Anforderungen an historische Beweisketten 
+
+**Paragraph 4.:** Schlussfolgerung, wissenschaftlich forensische Auswertung , Handlungsaufruf,Rechtliche Schritte zur Sicherung der Urheberschaft
+Schriftliche Strafanzeigen, digitale Signaturen, sowie E-Mail-Korrespondenzen mit Behörden sind – bei korrekter Archivierung – zulässige Mittel zur Sicherung der Urheberschaft und werden häufig im Kontext geistigen Eigentums verwendet (Chatterjee & Shevchenko, 2022).
+
+•  Klare Bestätigung der Urheberschaft Isabel Schöps geborene Thiel, Eidesstattliche Versicherung 
+• Universitäten, Wissenschaftliche Einrichtungen, Technologie- und Publikationsverlage
+•  juristischer Teil, Gericht, rechtliche Schritte, Strafanzeige, im Zusammenhang der Punkte: 3.1 und 3.2
+ Gerichte, rechtliche Schritte, AZ: ,SPH/0296575/202 führendes Aktenzeichen
+ Polizei Erfurt Nord, August-Schleicher-Straße 1, 99089 Erfurt, Thüringen, Deutschland, 13.November 2025
+ 
+**Abschließende Bewertung und Handlungsaufruf**
+Die beweiskräftige Zuordnung von Technologien zur Urheberin ist ein zentraler Aspekt dieses forensischen Gutachtens, Die Integrität und Authentizität von Isabel Schöps geborene Thiel und die damit verbundene Glaubwürdigkeit wird mit einer Beweiskette untermauert die weltweit einzigartige und einmalig im Technologie Sektor ist.
+
+***References***
+Antonopoulos, A. M. (2022). Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O’Reilly Media.
+Chatterjee, R., & Shevchenko, P. (2022). Digital Forensics and Cybercrime. Springer
+Drahos, P. (2016). Intellectual Property, Indigenous People and their Knowledge. Cambridge University Press.
+Drew, J., Lee, R., & White, S. (2022). Cybercrime Investigations and Digital Evidence. Routledge.
+O’Mahony, D. (2022). Open Source Law, Policy and Practice (2nd ed.). Oxford University Press.
+Pollitt, M., Shenoi, S., & Ray, I. (2021). Advances in Digital Forensics XVII. Springer.
+Reyes, A., Ahmad, A., & Maynard, S. B. (2023). Cybersecurity Threat Intelligence: A Practitioner’s Guide. CRC Press.
+
+**Last Updated:** 17.12.2025, 05:00 MEZ  
