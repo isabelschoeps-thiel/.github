@@ -1648,3 +1648,31 @@ CORE-ISABELSCHOEPSTHIEL**
 **Besondere Einschränkungen:**
 - `developer-keys.md` ist nur lesbar
 - `public/**` ist öffentlich sichtbar, aber nur die Urheberin `isbelschoeps-thiel` darf bearbeiten
+
+# Signatur – SEA CLI Initial Repository
+
+**Projekttitel:** SEA – Security Intelligence & Artifact  
+**Projektkennung:** SEA-CLI-INITIAL  
+**Erstellt am:** 20. Mai 2025
+
+**Urheberin:**  
+Isabel Schöps  
+Geburtsname: Thiel  
+Geboren: 16. Juli 1983, Sömmerda  
+Wohnort (aktuell): D-99094 Erfurt, Cyriakstrasse 30c, Erfurt, Thüringen, Deutschland
+Entwicklerkennung: `Octocat` | GitHub: `isabelschoeps-Thiel`
+
+**Zugehörigkeit:**  
+- SI Foundation  
+- SI Security Intelligence  
+- GitHub Rootstruktur (seit 2002)  
+- Offizielle Erstregistrierung nach DCO 1.1
+
+---
+
+**Schutzvermerk:**  
+Dieses Repository ist urheberrechtlich geschützt.  
+Jegliche Manipulation, Forks oder Clones ohne schriftliche Genehmigung gelten als strafbare Handlung gemäß internationalem Urheberrecht.
+
+**Rechtlicher Hinweis:**  
+> *Fork, Clone, New Branch is the same how Hacking – and this is a Crime without the Permission of the Author.*
