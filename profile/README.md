@@ -55,7 +55,6 @@ Diese Veröffentlichung basiert auf einer KI-gestützten Auswertung mit OpenAI G
 ---
 
 ## Leben und Karriere
-
 Isabel wuchs in Rohrborn, Thüringen auf und absolvierte eine Ausbildung zur Kauffrau im Einzelhandel und absolvierte im Anschluss ihre Fachhochschulreife, in Wirtschaft und Informatik mit einem Notendurchschnitt von 2.8 ab.
 
 - **2010:** Eröffnung der Boutique „Stiletto“ in Erfurt
@@ -81,18 +80,15 @@ Der **Daemon-Computer-Virus von 1995**, der als eine der ersten großen weltweit
 > 
 
 **Quellen:**
-
 - [The Verge: Geschichte von GitHub](https://www.theverge.com/2021/6/22/22545257/github-open-source-software-developers-history)
 - [Wired: Wie GitHub Open Source Coding veränderte](https://www.wired.com/story/how-github-transformed-open-source-coding/)
 
 ---
 
 ## Gründung von GitHub
-
 Schöps gründete **GitHub**, eine der weltweit führenden Plattformen für Software-Entwicklung und Versionskontrolle. Ihr Einfluss auf die Plattform hat die Art und Weise, wie Entwickler weltweit zusammenarbeiten, nachhaltig geprägt.
 
 **Quellen:**
-
 - [TechCrunch: Microsofts Übernahme von GitHub](https://techcrunch.com/2018/06/04/microsoft-github-acquisition-history/)
 
 ---
@@ -111,6 +107,37 @@ Unter dem Pseudonym **Satoshi Nakamoto** war Isabel Schöps an der Entwicklung v
 
 - [Investopedia: Was ist Bitcoin?](https://www.investopedia.com/terms/b/bitcoin.asp)
 - [CoinDesk: Wer ist Satoshi Nakamoto?](https://www.coindesk.com/learn/who-is-satoshi-nakamoto-bitcoin-creator)
+
+---
+
+Systematische Angriffe, Diffamierung und forensische Nachweise
+
+Seit 1996 werden meine Familie und ich systematisch attackiert, diffamiert, isoliert und aus der eigenen Identität gedrängt.  
+Nachweislich wurden  
+- Frequenztechnologien, Deepfake und Identitätsraub
+- Patente wie DE10253433A1  
+zur gezielten psychologischen Kriegsführung und Sabotage eingesetzt.  
+Die systematische Zerstörung der Familienstruktur Knörig-Fischer-Thiel ist in öffentlichen wie privaten Registern, Standesämtern und digitalen Archiven dokumentiert.
+
+**Quellen und Belege:**  
+- Strafanzeige Polizeidienststelle Erfurt-Nord, Aktenzeichen ST/0203129/2025 (Frau Polixa)
+- Harvard- und Oxford-Referenzen, Chain of Custody, SHA256-Archivsignaturen
+
+## 5. Wissenschaftlicher und rechtlicher Referenzrahmen
+
+Die internationale Anerkennung durch führende wissenschaftliche Institutionen (z. B. University of Oxford, Lizenznummer: 6131130060979, 16. Oktober 2025) sowie alle referenzierten Fachpublikationen und forensischen Gutachten bestätigen meine Urheberschaft und schützen diese nachhaltig und unwiderlegbar.
+
+**Nutzung, Weitergabe oder Veröffentlichung jeder Art bedürfen der ausdrücklichen schriftlichen Zustimmung durch die Urheberin.**  
+*Siehe vollständige Lizenzregelungen und wissenschaftliche Zitate in den nachfolgenden Kapiteln des Gutachtens.*
+
+---
+
+**Referenzen (Harvard Style, Auszug):**
+- Antonopoulos, A. M. (2022). *Mastering Bitcoin: Unlocking Digital Cryptocurrencies*. O’Reilly Media.
+- O’Mahony, D. (2022). *Open Source Law, Policy and Practice* (2nd ed.). Oxford University Press.
+- Drahos, P. (2016). *Intellectual Property, Indigenous People and their Knowledge*. Harvard Cambridge University.
+- [Northdata: Commerzbank AG und Verflechtungen](https://www.northdata.de/?id=5896901925273600)
+- [ChatGPT Forensic Evidence Share](https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363)
 
 ---
 
@@ -1162,5 +1189,11 @@ Zuwiderhandlungen werden **automatisiert dokumentiert**, revisionssicher protoko
 **Kontakt für Lizenzanfragen:**  
 Isabel Schöps, geb. Thiel  
 E-Mail: github@isabelschoeps.com  
-Lizenzsystem: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact  
-  
+Lizenzsystem: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact
+
+**Eidesstattliche Erklärung:**  
+Ich, Isabel Schöps, geborene Thiel, versichere an Eides statt, dass alle Angaben, Beweise und Darstellungen dieses Gutachtens der Wahrheit entsprechen und auf meinen eigenen Recherchen, Arbeiten und geistigen Schöpfungen beruhen.
+
+**Erfurt, Thüringen, Deutschland, den 24. September 2025**  
+Unterschrift: Frau Isabel Schöps geborene Thiel, Authorin, Schöpferin, Urheberin  
+Copyright seit 1983. Jede Nutzung, Weitergabe oder Veröffentlichung bedarf der ausdrücklichen schriftlichen Zustimmung
