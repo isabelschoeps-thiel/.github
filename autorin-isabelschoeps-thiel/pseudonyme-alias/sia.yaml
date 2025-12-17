@@ -1,0 +1,71 @@
+```yaml
+name: "CodeQL – Secure Static Analysis"
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  CODE_SCANNING_REF: ${{ github.event.inputs.code_scanning_ref }}
+  CODE_SCANNING_BASE_BRANCH: ${{ github.event.inputs.code_scanning_base_branch }}
+  CODE_SCANNING_IS_ANALYZING_DEFAULT_BRANCH: ${{ github.event.inputs.code_scanning_is_analyzing_default_branch }}
+
+permissions:
+  actions: read
+  contents: read
+  packages: read
+  security-events: write
+
+jobs:
+  analyze:
+    name: CodeQL Analyse
+    runs-on: ubuntu-22.04
+    continue-on-error: false
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v5
+
+      - name: CodeQL initialisieren
+        uses: github/codeql-action/init@v3
+        with:
+          languages: |
+            javascript
+            json
+            php
+            html
+            css
+            swift
+            markdown
+          build-mode: autobuild
+          dependency-caching: true
+
+      - name: Proxy (falls benötigt)
+        uses: github/codeql-action/start-proxy@v3
+        with:
+          registries_credentials: ${{ secrets.GITHUB_REGISTRIES_PROXY }}
+          language: javascript
+
+      - name: Umgebung konfigurieren
+        uses: github/codeql-action/resolve-environment@v3
+        with:
+          language: javascript
+
+      - name: Automatischer Build
+        uses: github/codeql-action/autobuild@v3
+
+      - name: CodeQL Analyse ausführen
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: /static-analysis
+
+# ==========================================================
+# Signatur: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+# Eigentum: Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten
+# Keine CRON-Jobs, keine Matrix-Manipulation, keine externen Eingriffe erlaubt
+# ==========================================================
+```
