@@ -1520,11 +1520,6 @@ Diese eidesstattliche Erklärung wurde von Isabel Schöps, geb. Thiel, am 04. De
 	3.	Die Erklärung dient als rechtsverbindliche Bestätigung der physischen Existenz, geistigen Urheberschaft und Authentizität der Beweise.
 	4.	Die Analyse wurde lizenziert und wissenschaftlich mit Harvard- und Oxford-Referenzen abgesichert (Lizenznummer 6131130060979).
 
-### Forensische Bezeichnung:
-“SIA Security Intelligence Artefact – Technologie und Software”
-Veröffentlichungsstatus: Teil der Dokumentation ***INT-CODE-2025-BTC/ETH
-CORE-ISABELSCHOEPSTHIEL***
-
 ⸻
 
 Rechtlicher Rahmen und Zweck der Veröffentlichung
@@ -1564,3 +1559,34 @@ Alle Rechte vorbehalten.
 Dieses Gutachten ist urheberrechtlich geschützt und darf ausschließlich in unveränderter Form zitiert oder für wissenschaftliche Zwecke genutzt werden.
 
 Lizenz: Creative Commons BY 4.0￼
+
+---
+
+**Copyright- und Lizenzvermerk**
+
+Copyright by Isabel Schöps, geborene Thiel
+
+Dieses forensische Gutachten ist urheberrechtlich geschützt und unterliegt einer reinen Leselizenz („Read-Only User“).  
+Jegliche Form der Vervielfältigung, Verbreitung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder sonstige Modifikation – sei es vollständig oder in Teilen – ist strengstens untersagt.
+
+Die Veröffentlichung des Gutachtens erfolgt ausschließlich zu folgenden Zwecken:  
+– der vollständigen Rehabilitation der Urheberin,  
+– der strafrechtlichen Aufarbeitung,  
+– der Geltendmachung von Vermögensansprüchen  
+– sowie der Wiederherstellung familiärer und historischer Rechte und Strukturen.
+
+Das Gutachten dient nationalen und internationalen Strafverfolgungsbehörden sowie den Medien als Beweisgrundlage. Medien und Behörden dürfen das Gutachten zur Berichterstattung, zur Aufklärung oder zur Unterstützung der Rehabilitation heranziehen, sind jedoch verpflichtet, die Urheberin vorab über die geplante Nutzung zu informieren. Eine Weiterverarbeitung, Nachbearbeitung oder inhaltliche Veränderung ist untersagt. Das Gutachten darf ausschließlich zur Beweisführung, für mediale und familiäre Ansprüche sowie zur globalen Richtigstellung eingesetzt werden.
+Open Source Software und alle weiteren Technologien aus diesem Kontext dürfen ausschließlich unter Lizenz genutzt werden. Lizenzen werden nur direkt durch die Urheberin Isabel Schöps, geborene Thiel, oder nachweislich autorisierte Lizenzpartner vergeben.
+Automatisierungslösungen, Terminals oder Tools, deren Ursprung im Jahr 1996 im Postgres- oder Unicode-Kontext belegt ist, werden ausschließlich unter Lizenz und unter strengen Voraussetzungen bereitgestellt.
+Einzelpersonen, Unternehmen oder Institutionen ohne gültige Lizenz begehen eine Urheberrechtsverletzung gemäß §§ 106 ff. UrhG sowie ggf. eine Straftat nach §§ 202a, 263a StGB und internationalen Schutzabkommen.  
+Zuwiderhandlungen werden automatisiert dokumentiert, revisionssicher protokolliert und an nationale sowie internationale Strafverfolgungsbehörden gemeldet (u. a. BKA, Interpol, FBI, Europol, NSA, CIA, Mossad, MSS).
+
+**Kontakt für Lizenzanfragen:**  
+Isabel Schöps, geb. Thiel  
+E-Mail: github@isabelschoeps.com  
+Lizenzsystem: SI Security Intelligence / SIA – Security Intelligent Security Artefact
+
+### Forensische Bezeichnung:
+“SIA Security Intelligence Artefact – Technologie und Software”
+Veröffentlichungsstatus: Teil der Dokumentation ***INT-CODE-2025-BTC/ETH
+CORE-ISABELSCHOEPSTHIEL**
