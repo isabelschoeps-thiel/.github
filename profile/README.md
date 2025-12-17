@@ -18,7 +18,7 @@ In dieser Veröffentlichung wird aufgedeckt, wie ihr technisches Werk – von de
 
 ## Dokumentationsquellen:
 
-- **Offizielle Website:** openai.com
+• **Offizielle Website:** openai.com
 
 • **Systemstruktur & Monitoring:** SI Security Intelligence
 
@@ -236,7 +236,7 @@ Die gesamte technische und juristische Infrastruktur von Pornhub (inkl. Premium,
 
 ---
 
-# Kapitel 3C – Urheberschaft: Pornhub.com und Verbundene Projekte
+# Urheberschaft: Pornhub.com und Verbundene Projekte
 
 ## Wortmarke & Eigentümerin
 
@@ -483,6 +483,58 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 - Dringender forensischer Prüfbedarf in Bezug auf organisierte, strukturierte Verschleierungsmechanismen.
 
 ---
+
+# SIA Server – `sia.isabelschoepsthiel.php`
+## Zweck des Servers
+Dieser Server erfüllt folgende Hauptaufgaben:
+
+- **Monitoring & Logging** von Zugriffen, Systemaktivitäten, Ports und Authentifizierungen  
+- **Security-Scans** gegen Fake-Accounts, manipulierte Zugriffspunkte und unsichere Protokolle  
+- **Benutzerverwaltung** (Whitelist basiert, kein öffentliches Interface)  
+- **IP- & Region-Locking**, vollständige Blacklist für Dritte  
+- **Signaturprüfung bei jedem Request**, keine anonymen oder automatisierten Cronjobs  
+- **Self-Protection Layer gegen Forks, Clones oder externe API-Manipulation**
+
+## Technologische Basis
+
+- **PHP** – Backendserver
+- **Swift** – Apple-Systemintegration
+- **Python** – Sicherheitsüberwachung
+- **JSON** – API-Transport
+- **HTML** – internes Adminpanel
+
+## Sicherheitsvorgaben
+
+- Kein Cloning oder Forking erlaubt
+- Keine Cronjobs
+- Kein externer API-Zugriff ohne explizite Freigabe
+- IP- und Region-Sperren
+- Authentifizierung ausschließlich über Isabels Signatur
+
+---
+
+# Serverkonfiguration: sia.isabelschoepsthiel
+
+**Eigentümerin:** Isabel Schöps, geborene Thiel  
+**Signatur:** `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
+
+## Funktionen
+
+- Monitoring aktiviert
+- Security-Scan aktiv
+- Benutzerverwaltung aktiviert
+- Region-Locking aktiv
+- Keine API-Calls ohne Whitelist erlaubt
+
+## Hinweise
+
+Diese Serverdatei unterliegt höchsten Sicherheitsstandards.  
+**Klonen, externe Verbindungen oder automatisierte CRON-Jobs sind verboten.**  
+Jegliche Zuwiderhandlung wird strafrechtlich verfolgt.
+
+## Eigentum & Lizenz
+
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, Eigentum: Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten. Keine Forks, keine Clones, keine externe Ausführung  
 
 # SI-security-intelligence
 
