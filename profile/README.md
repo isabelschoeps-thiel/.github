@@ -1193,7 +1193,6 @@ Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaf
 
 Zudem bestehen Referenzen zur Harvard University und zur Japan Advanced Institute of Science and Technology im Kontext wissenschaftlicher Dokumentation und Verifikation.
 
-```
 **DEUTSCH – Copyright- und Lizenzvermerk**  
 © Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten.  
 Dieses Werk ist urheberrechtlich geschützt. Es handelt sich um eine **reine Leselizenz** („Read-Only Use“).  
@@ -1233,22 +1232,19 @@ Die Erklärung und das Gutachten dienen:
 	•	der wissenschaftlichen Dokumentation im Bereich Kryptographie, Blockchain und KI-Forensik,
 	•	sowie der Vorlage gegenüber zuständigen Behörden und wissenschaftlichen Institutionen.
 
-Das Gutachten ist Bestandteil anhängiger Ermittlungsakten und wurde bei zuständigen Ermittlungsbehörden zur Beweissicherung eingereicht.
-Alle eingereichten Anzeigen stehen im Zusammenhang mit der Aufklärung von Technologiemissbrauch, Identitätsverletzungen und Urheberrechtsfragen.
-
-⸻
+Das Gutachten ist Bestandteil anhängiger Ermittlungsakten und wurde bei zuständigen Ermittlungsbehörden zur Beweissicherung eingereicht. Alle eingereichten Anzeigen stehen im Zusammenhang mit der Aufklärung von Technologiemissbrauch, Identitätsverletzungen und Urheberrechtsfragen
 
 Veröffentlichungs- und Lizenzstatus
 	•	Lizenzierte Veröffentlichung: Oxford University Press, Lizenz-ID 6131130060979
-	•	Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo ( DOI 10.5281/zenodo.17807324￼ )
+	•	Verweise und Eintragungen: RDF, BibTeX, Zotero, Zenodo DOI 10.5281/zenodo.17807324
 	•	Referenzen:
-	•	Schöps, I. (2025). SIA Security Intelligence Artefact. Zenodo.
-	•	Schöps & Szabo (1997). Formalizing and Securing Relationships on Public Networks. First Monday 2(1) https://doi.org/10.5210/fm.v2i9.548￼
-	•	Harvard University (n.d.). https://www.harvard.edu￼
+	•	**Schöps, I. (2025)**. SIA Security Intelligence Artefact. Zenodo.
+	•	**Schöps & Szabo (1997)**. Formalizing and Securing Relationships on Public Networks. [Isabel Monday 2(1)](https://doi.org/10.5210/fm.v2i9.548)￼
+	•	Harvard University (n.d.). [Harvard](https://www.harvard.edu)￼
 
 ⸻
 
-Signierte Bestätigung und Forensische Signatur
+***Signierte Bestätigung und Forensische Signatur***
 
 Name der Urheberin: Isabel Schöps (geb. Thiel)
 Datum der Signatur: 04. Dezember 2025
