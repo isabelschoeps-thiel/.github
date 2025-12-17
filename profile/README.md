@@ -3,7 +3,9 @@
 *ATTENTION_META_FILE FORK IS CRIMINAL AND BEING PROSECUTED BY THE JUSTICE*
 
 Titel:
-### Yellow White Paper – Bitcoin & Ethereum: Security Intelligence Artefact (SIA) <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
+### Yellow Whitepaper – Bitcoin & Ethereum: 
+
+Security Intelligence Artefact (SIA) <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Isabel Schöps geb. Thiel, 2025. Yellow whitepaper, Bitcoin &amp; Ethereum 109. https://doi.org/https://doi.org/10.1093/bioinformatics/bth078</div>
 </div>
 
